@@ -7,9 +7,9 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", None) 
-API_HASH = os.environ.get("API_HASH", None) 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
+API_ID = os.environ.get("29924748", None) 
+API_HASH = os.environ.get("f124d1317db1274a25b2dacab98bef1d", None) 
+BOT_TOKEN = os.environ.get("6405368705:AAEkApQrAv8o5DbulOtH2t-Upe2-dA_hZ6g", None) 
 MONGO_URL = os.environ.get("MONGO_URL", None)
 
 
